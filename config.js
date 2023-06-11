@@ -1,8 +1,8 @@
 /*
-𝐀𝐮𝐭𝐡𝐨𝐫 : Yasmin Project 
-𝐖𝐚 : +6285155282272
-𝐛𝐚𝐬𝐞 : Yasmin
-𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 11 June 2023
+𝐀𝐮𝐭𝐡𝐨𝐫 : Shirokami Ryzen 
+𝐖𝐚 : +6281387307198
+𝐛𝐚𝐬𝐞 : Narutomo & Elaina
+𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 22 Nov 2022
 */
 
 import { watchFile, unwatchFile } from 'fs'
@@ -46,7 +46,7 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6282118159396', 'ysmn', true]
+['6282118159396', 'rfxstwn', true]
 ]
 global.mods = []
 global.prems = []
@@ -60,42 +60,42 @@ global.nomorwa = '0'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Ysmn'
-global.namebot = '​ YsmnBotz'
-global.wm = '© YsmnBotz By Ysmn'
-global.media = 'https://logos.textgiraffe.com/logos/logo-name/Yasmin-designstyle-popstar-m.png'
-global.wm = 'Ysmn '
+global.author = 'Ryzn'
+global.namebot = '​ NaoBotz'
+global.wm = '© NaoBotz By Ryzn'
+global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
+global.wm = 'Ryzn '
 global.watermark = wm
-global.wm2 = 'Ysmn '
+global.wm2 = 'Ryzn '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `NaoBotz`
-global.stickpack = `Sticker Dibuat pada ${week} ${date}\nJam: ${wktugeneral}\n\Ysmn-Bot\n+6285155282272`
-global.stickauth = `© YsmnBotz by Ysmn`
+global.stickpack = `Sticker Dibuat pada ${week} ${date}\nJam: ${wktugeneral}\n\nNao-Bot\n+6285864034767`
+global.stickauth = `© NaoBotz by Ryzen`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Ysmn'
-global.nameown2 = 'Ysmn'
+global.nameown1= 'Ryzn'
+global.nameown2 = 'Ryzn'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = ''
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = '-'
-global.sgh = '-' //github
+global.sig = 'https://www.instagram.com/ryzen_vermillion'
+global.sgh = 'https://github.com/ShirokamiRyzen' //github
 global.sgc = '-' //group whatsapp
 global.sdc = '-' //discord
-global.snh = '-'
+global.snh = 'https://www.youtube.com/channel/UC5z1Xp6vQGU038B1RbMC3Gg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0821 1815 9396'
+global.pdana = '0813 8730 7198'
 global.povo = '-'
-global.pgopay = '0821 1815 9396'
+global.pgopay = '0813 8730 7198'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0821 1815 9396'
-global.ppulsa2 = '0821 1815 9396'
+global.ppulsa = '0813 8730 7198'
+global.ppulsa2 = '0813 8730 7198'
 global.psaweria = '-'
 
 
@@ -313,9 +313,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = 'INSTAGRAM'
-global.urlnya = "-"
+global.urlnya = "https://www.instagram.com/ryzen_vermillion"
 global.dtc = 'CALL OWNER'
-global.phn = '0812 8730 7198'
+global.phn = '0813 8730 7198'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
